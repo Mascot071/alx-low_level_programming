@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
  * main - a program that prints _putchar
  * Written by Abraham Okegbile
- * Resturn: 0
+ * Return: 0
  */
+
 int main(void)
 {
 	printf ("_putchar",\n);
